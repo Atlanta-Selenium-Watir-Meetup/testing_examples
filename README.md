@@ -7,3 +7,5 @@ April 15th Meetup presentation/examples Writing a Good Test and Q/A on QA
 
 * [Clicking all links on a page.](/examples/clicking_all_links.md)
 * [Information Overload](/examples/information_overload.md)
+* [Testing the right thing](/examples/testing_the_right_thing.md)
+* [Some "Pretty Good" practices](/examples/pretty_good_practices.md)
